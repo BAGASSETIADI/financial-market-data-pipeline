@@ -17,3 +17,9 @@ LOG_FILE = "logs/pipeline.log"
 MAX_RETRIES = 3
 
 REQUEST_TIMEOUT = 30
+
+CSV_FILE = (
+    "data/processed/market_data_clean.csv"
+)
+
+TABLE_NAME = "market_raw"
