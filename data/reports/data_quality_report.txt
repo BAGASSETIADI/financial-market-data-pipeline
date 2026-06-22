@@ -1,0 +1,28 @@
+
+=================================
+DATA QUALITY REPORT
+=================================
+
+Report Date:
+2026-06-22 19:44:39.697000
+
+Total Records:
+250
+
+Missing Values:
+3
+
+Duplicate Records:
+0
+
+Null Percentage:
+0.09 %
+
+Invalid Prices:
+0
+
+Invalid Market Caps:
+0
+
+Final Valid Records:
+250

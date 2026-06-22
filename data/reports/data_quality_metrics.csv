@@ -1,0 +1,2 @@
+report_date,total_records,duplicate_records,missing_values,null_percentage,invalid_prices,invalid_market_caps,final_valid_records
+2026-06-22 19:44:39.697,250,0,3,0.09,0,0,250
