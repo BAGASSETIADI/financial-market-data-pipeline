@@ -1,0 +1,4 @@
+2026-06-22 13:46:21,224 | INFO | Starting Market Data Extraction
+2026-06-22 13:46:21,224 | INFO | API Request Attempt 1
+2026-06-22 13:46:22,311 | INFO | Raw JSON saved -> data/raw/market_data.json
+2026-06-22 13:46:22,312 | INFO | Extraction Completed Successfully
