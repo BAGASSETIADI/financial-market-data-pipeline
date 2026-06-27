@@ -80,19 +80,19 @@ The project simulates a real-world financial analytics platform suitable for bus
 
 ## Market Performance
 
-![Market Performance](dashboard/dashboard_market_performance.png)
+![Market Performance](dashboard/market_performance.png)
 
 ---
 
 ## Price Analytics
 
-![Price Analytics](dashboard/dashboard_price_analytics.png)
+![Price Analytics](dashboard/price_analytics.png)
 
 ---
 
 ## Data Quality Dashboard
 
-![Data Quality](dashboard/dashboard_data_quality.png)
+![Data Quality](dashboard/data_quality.png)
 
 ---
 
@@ -151,10 +151,10 @@ financial-market-data-pipeline/
 ├── credentials/
 │
 ├── dashboard/
-│   ├── dashboard_market_overview.png
-│   ├── dashboard_market_performance.png
-│   ├── dashboard_price_analytics.png
-│   └── dashboard_data_quality.png
+│   ├── market_overview.png
+│   ├── market_performance.png
+│   ├── price_analytics.png
+│   └── data_quality.png
 ├── data/
 │   ├── raw/
 │   ├── processed/
