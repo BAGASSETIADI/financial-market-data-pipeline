@@ -74,7 +74,7 @@ The project simulates a real-world financial analytics platform suitable for bus
 
 ## Market Overview
 
-![Market Overview](dashboard/dashboard_market_overview.png)
+![Market Overview](dashboard/market_overview.png)
 
 ---
 
